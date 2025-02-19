@@ -36,7 +36,7 @@ I constantly work on AI-driven solutions and software development best practices
 🔹 **Computer Vision** (OpenCV, YOLO)  
 🔹 **Natural Language Processing (NLP)**  
 🔹 **Reinforcement Learning (RL)**  
-🔹 **Generative AI** (ChatGPT, Stable Diffusion)  
+🔹 **Generative AI** (OpenAI,llama,Groq)  
 
 ---
 
