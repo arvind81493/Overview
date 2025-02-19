@@ -41,9 +41,8 @@ I constantly work on AI-driven solutions and software development best practices
 ---
 
 💡 **What’s Next?**  
-- 🎯 Hands-on Projects (Kaggle, GitHub)  
-- 🎓 Online Courses (Andrew Ng's ML, Fast.ai, DeepLearning.ai)  
-- 📄 Research Papers (arXiv, Google AI)  
+- 🎯 Hands-on Projects (GitHub)  
+- 📄 Research Papers (arXiv, Google AI,)  
 
 🚀 **Follow my AI journey!**  
 
